@@ -10,7 +10,7 @@
 ## 🚀 Sobre mim
 
 Sou graduando em **Engenharia de Controle e Automação** pela **Universidade Federal de Santa Catarina (UFSC)**.  
-Tenho sólida base em **programação orientada a objetos** e desenvolvo projetos que integram software e hardware com foco em aplicações de engenharia.
+Tenho sólida base em **programação orientada a objetos** e desenvolvo projetos que integram software e hardware com foco em aplicações voltadas para o varejo e área industrial.
 
 Possuo experiência com linguagens como **Python**, **Java**, **Delphi** e **C++** — sendo esta última especialmente aplicada a **sistemas embarcados**.
 
@@ -32,10 +32,21 @@ Gosto de aprender continuamente, compartilhar conhecimento e desenvolver soluç�
 - 🐧 Linux  
 - 🔧 VSCode, toolchains, buildroot  
 - 🛠️ Git & GitHub  
-- 🛢️ PostgreSQL ![PostgreSQL logo](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-- 🗃️ MySQL ![MySQL logo](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-- 🤖 Interesse: automação, sistemas embarcados, AI e dados aplicados à engenharia  
+- ![PostgreSQL logo](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+- ![MySQL logo](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)   
+</div>
 
+---
+## 🤓 Interesses
+👨‍🔧 automação, 🤖 sistemas embarcados, 🧠 IA, 📊 dados aplicados à engenharia
+
+<div style="display: flex; justify-content: center;">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"  
+ width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" height="40"/>
 </div>
 
 ---
