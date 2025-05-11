@@ -1,16 +1,12 @@
 
 <h1 align="center">Olá! 👋 Bem-vindo</h1>
 
-<p align="center">
-  🧠 Apaixonado por engenharia, programação orientada a objetos, sistemas embarcados e automação varejo/industrial <br/>
-</p>
-
----
+---
 
 ## 🚀 Sobre mim
 
 Sou graduando em **Engenharia de Controle e Automação** pela **Universidade Federal de Santa Catarina (UFSC)**.  
-Tenho sólida base em **programação orientada a objetos** e desenvolvo projetos que integram software e hardware com foco em aplicações voltadas para o varejo e área industrial.
+Tenho sólida base em **programação orientada a objetos** e desenvolvo projetos que integram software e hardware com foco em aplicações voltadas para o varejo e indústria.
 
 Possuo experiência com linguagens como **Python**, **Java**, **Delphi** e **C++** — sendo esta última especialmente aplicada a **sistemas embarcados**.
 
