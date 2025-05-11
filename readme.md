@@ -1,10 +1,7 @@
 
-<h1 align="center">Olá! 👋 Bem-vindo ao meu perfil no GitHub</h1>
+<h1 align="center">Olá! 👋 Bem-vindo</h1>
 
 <p align="center">
-  🎓 Estudante de Engenharia de Controle e Automação na <strong>UFSC</strong> <br/>
-  💻 Desenvolvedor com experiência em <strong>Python</strong>, <strong>Java</strong>,
-      <strong>Delphi</strong>, <strong>C/C++</strong> <br/>
   🧠 Apaixonado por engenharia, programação orientada a objetos, sistemas embarcados e automação varejo/industrial <br/>
 </p>
 
@@ -27,9 +24,9 @@ Gosto de aprender continuamente, compartilhar conhecimento e desenvolver soluç�
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
 
-- 🐍 Python  
-- ☕ Java  
-- 🖥️ Delphi  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
+- ![Delphi](https://img.shields.io/badge/Delphi-E60028?style=flat&logo=embarcadero&logoColor=white)  
 - 💡 C/C++ para sistemas embarcados  
 - 🧩 Programação Orientada a Objetos  
 - 🐧 Linux  
@@ -51,5 +48,5 @@ Gosto de aprender continuamente, compartilhar conhecimento e desenvolver soluç�
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otnael&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OtnaelRochaSilva&show_icons=true&theme=tokyonight" />
 </p>
