@@ -2,7 +2,7 @@
 <h1 align="center">Olá! 👋 Bem-vindo</h1>
 
 ---
-## 👨<200d>🔧🚀 Sobre mim
+## 👨 Sobre mim
 
 Sou graduando em **Engenharia de Controle e Automação** pela **Universidade Federal de Santa Catarina (UFSC)**.  
 Tenho sólida base em **programação orientada a objetos** e desenvolvo projetos que integram software e hardware com foco em aplicações voltadas para o varejo e indústria.
@@ -32,7 +32,7 @@ Gosto de aprender continuamente, compartilhar conhecimento e desenvolver soluç�
 </div>
 
 ---
-## 🤓 Interesses
+## 🤓 Interesses🚀
 👨‍🔧 automação, 🤖 sistemas embarcados, 🧠 IA, 📊 dados aplicados à engenharia
 
 <div style="display: flex; justify-content: center;">
