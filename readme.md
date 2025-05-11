@@ -1,9 +1,8 @@
 
 <h1 align="center">Olá! 👋 Bem-vindo</h1>
 
----
-
-## 🚀 Sobre mim
+---
+## 👨<200d>🔧🚀 Sobre mim
 
 Sou graduando em **Engenharia de Controle e Automação** pela **Universidade Federal de Santa Catarina (UFSC)**.  
 Tenho sólida base em **programação orientada a objetos** e desenvolvo projetos que integram software e hardware com foco em aplicações voltadas para o varejo e indústria.
